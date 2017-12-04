@@ -1,13 +1,12 @@
 package com.brands;
 
 /**
- * Hello world!
  *
+ * @version 1.0 5 Dec 2017
+ * @author Eugene Lobin
  */
-public class App 
-{
-    public static void main( String[] args )
-    {
-        System.out.println( "Hello World!" );
+public class App {
+    public static void main(String[] args) {
+        Print.printHello();
     }
 }
